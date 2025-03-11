@@ -82,14 +82,7 @@ JWT_SECRET_KEY='your-secret-key'
 npm run dev
 ```
 
-## Usage
 
-1. Visit `http://localhost:3000` in your browser
-2. Create an account or log in
-3. Search for books using the search bar
-4. Click "Save this Book!" to save books to your profile
-5. View saved books by clicking "See Your Books" in the navigation
-6. Remove books from your saved list using the "Delete this Book!" button
 
 ## Project Structure
 
