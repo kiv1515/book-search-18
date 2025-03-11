@@ -199,9 +199,7 @@ The application uses JSON Web Tokens (JWT) for authentication. Tokens are stored
 
 This project is licensed under the ISC License.
 
-## Questions
 
-Contact me at [my email](mailto:sara.j.ryan.90@gmail.com) with any questions.
 
 ## Screenshots
 
